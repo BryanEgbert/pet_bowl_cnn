@@ -11,4 +11,4 @@ The [dataset](https://drive.google.com/drive/folders/1B89sa6ZZdRm6E4vASweHoWoJ69
 The dataset is limited to only stainless steel pet bowl
 
 ## Model Download Instruction
-To download the model, please go to the release tag of this repo
+To download the model, please go to the [release tag](https://github.com/BryanEgbert/pet_bowl_cnn/releases) of this repo
